@@ -1,4 +1,4 @@
-package LinkedList_Singly;
+package LinkedList;
 
 public class LL {
 
